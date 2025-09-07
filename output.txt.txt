@@ -1,0 +1,3 @@
+PS C:\Users\ak012\OneDrive\Desktop\Java> javac hello.java
+PS C:\Users\ak012\OneDrive\Desktop\Java> java hello
+Hello, World!
